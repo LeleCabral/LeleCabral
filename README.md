@@ -1,6 +1,5 @@
 ### Oi, eu sou a LeleCabral 👋
 
-- 🔭 Atualmente procuro estágio.
 - 🌱 Cursando: Analise e Desenvolvimento de Sistemas (Agosto 2022/Agosto2024)
 - 👯 Brasil. 19 anos.
 
