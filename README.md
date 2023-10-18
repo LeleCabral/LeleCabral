@@ -1,7 +1,8 @@
 ### Oi, eu sou a LeleCabral 👋
 
-- 🌱 Cursando: Analise e Desenvolvimento de Sistemas (Agosto 2022/Agosto2024)
-- 👯 Brasil. 19 anos.
+- 🌱 Cursando: Análise e Desenvolvimento de Sistemas (Agosto 2022/Agosto2024) - Terceiro Semestre.
+- 👯 Inicisndo Fullstack JavaSCript (OneBitCode)
+- 👯 Brasília-DF. 20 anos.
 
 
 <div align="center">  
