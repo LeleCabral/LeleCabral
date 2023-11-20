@@ -1,7 +1,8 @@
 ### Oi, eu sou a LeleCabral 👋
 
-- 🌱 Cursando: Análise e Desenvolvimento de Sistemas (Agosto 2022/Agosto2024) - Terceiro Semestre.
-- 👯 Inicisndo Fullstack JavaSCript (OneBitCode)
+- 🌱 Olá mundo! Sou Letícia Cabral e estou cursando Análise e Desenvolvimento de Sistemas.
+- 🌱 Sou completamentete apaixonada pelo mundo da moda e os meus projetos segue a mesma linha: DevButFashion.
+- 👯 Me encontrei na programação Fullstack JavaScript. 
 - 👯 Brasília-DF. 20 anos.
 
 
