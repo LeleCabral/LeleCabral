@@ -1,9 +1,18 @@
-### Oi, eu sou a LeleCabral 👋
+### Hello World! I´am Letícia Cabral. 👋
 
-- 🌱 Olá mundo! Sou Letícia Cabral e estou cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Sou completamentete apaixonada pelo mundo da moda e os meus projetos segue a mesma linha: DevButFashion.
-- 👯 Me encontrei na programação Fullstack JavaScript. 
-- 👯 Brasília-DF. 20 anos.
+- 💖 I'm LeleCabral, I'm 21 years old and I have a degree in Systems Analysis and Development.
+- 👩🏻‍💻 A passionate software developer and tech enthusiast.
+- 🖥️ Enthusiastic about creating interactive and intuitive user experiences, combining design and functionality. I have experience in developing Full Stack web applications, combining performance, usability and best practices.
+
+
+<div style="display: inline_block"><br>
+ <img align="center" alt="Lele-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lele-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Lele-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+  
+</div>
+
 
 
 <div align="center">  
